@@ -6,19 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
-        //Variables:
-        //type varName = value
-        //Type of variables:
-        //Primitive
-        byte age = 33;
-        int year = 2_021; // you can use "_" as divider for numbers, so they're easier to read.
-        Date now = new Date();
 
-        System.out.println(now);
-        System.out.println(year);
-        System.out.println(age);
 
-        //primitive
 
 
 
